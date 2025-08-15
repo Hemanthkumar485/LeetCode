@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Hemanthkumar485/LeetCode/tree/master/0029-divide-two-integers) |
 | [0326-power-of-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Hemanthkumar485/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Hemanthkumar485/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Hemanthkumar485/LeetCode/tree/master/0029-divide-two-integers) |
+| [0342-power-of-four](https://github.com/Hemanthkumar485/LeetCode/tree/master/0342-power-of-four) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Hemanthkumar485/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hemanthkumar485/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Tree
@@ -121,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Hemanthkumar485/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
