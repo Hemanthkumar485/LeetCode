@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Hemanthkumar485/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/Hemanthkumar485/LeetCode/tree/master/0118-pascals-triangle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Hemanthkumar485/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hemanthkumar485/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hemanthkumar485/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Hemanthkumar485/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Hemanthkumar485/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Hemanthkumar485/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Hemanthkumar485/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hemanthkumar485/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1448-maximum-69-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Hemanthkumar485/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/Hemanthkumar485/LeetCode/tree/master/3830-find-closest-person) |
