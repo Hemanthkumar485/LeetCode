@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Hemanthkumar485/LeetCode/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/Hemanthkumar485/LeetCode/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Hemanthkumar485/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Hemanthkumar485/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Hemanthkumar485/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Hemanthkumar485/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
