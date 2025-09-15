@@ -153,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Hemanthkumar485/LeetCode/tree/master/0069-sqrtx) |
+## Database
+|  |
+| ------- |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Hemanthkumar485/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
