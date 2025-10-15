@@ -17,11 +17,6 @@ class Solution {
                 d++;
             }
         }
-        if(c == d){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return c == d;
     }
 }
