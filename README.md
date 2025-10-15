@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Hemanthkumar485/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hemanthkumar485/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Hemanthkumar485/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Hemanthkumar485/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/Hemanthkumar485/LeetCode/tree/master/3396-valid-word) |
 ## Trie
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0414-third-maximum-number) |
+## Counting
+|  |
+| ------- |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Hemanthkumar485/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
