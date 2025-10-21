@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Hemanthkumar485/LeetCode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2058-concatenation-of-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Hemanthkumar485/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Hemanthkumar485/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Hemanthkumar485/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Hemanthkumar485/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hemanthkumar485/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Hemanthkumar485/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Hemanthkumar485/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Hemanthkumar485/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3396-valid-word](https://github.com/Hemanthkumar485/LeetCode/tree/master/3396-valid-word) |
 ## Trie
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/Hemanthkumar485/LeetCode/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Hemanthkumar485/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Recursion
 |  |
 | ------- |
