@@ -2,13 +2,13 @@ class Solution {
     public int finalValueAfterOperations(String[] op) {
         int a = 0;
         for(String s : op){
-            if(s.contains("X++")){
+            if(s.equals("X++")){
                 a++;
             }
-            else if(s.contains("++X")){
+            else if(s.equals("++X")){
                 ++a;
             }
-            else if(s.contains("X--")){
+            else if(s.equals("X--")){
                 a--;
             }
             else{
