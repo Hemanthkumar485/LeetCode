@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hemanthkumar485/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1448-maximum-69-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Hemanthkumar485/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Hemanthkumar485/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/Hemanthkumar485/LeetCode/tree/master/3830-find-closest-person) |
 ## String
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Hemanthkumar485/LeetCode/tree/master/0342-power-of-four) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Hemanthkumar485/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hemanthkumar485/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Hemanthkumar485/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Tree
 |  |
 | ------- |
