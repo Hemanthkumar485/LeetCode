@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Hemanthkumar485/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Hemanthkumar485/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0392-is-subsequence](https://github.com/Hemanthkumar485/LeetCode/tree/master/0392-is-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Hemanthkumar485/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hemanthkumar485/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Hemanthkumar485/LeetCode/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/Hemanthkumar485/LeetCode/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hemanthkumar485/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Hemanthkumar485/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Hemanthkumar485/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Hemanthkumar485/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0392-is-subsequence](https://github.com/Hemanthkumar485/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
