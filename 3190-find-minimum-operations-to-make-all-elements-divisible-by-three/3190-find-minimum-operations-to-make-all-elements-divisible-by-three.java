@@ -7,6 +7,6 @@ class Solution {
                 c++;
             }
         }
-        return Math.abs(n-c);
+        return n-c;
     }
 }
