@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Hemanthkumar485/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Hemanthkumar485/LeetCode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Hemanthkumar485/LeetCode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Hemanthkumar485/LeetCode/tree/master/0504-base-7) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Hemanthkumar485/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Hemanthkumar485/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Hemanthkumar485/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Hemanthkumar485/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Hemanthkumar485/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Hemanthkumar485/LeetCode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Hemanthkumar485/LeetCode/tree/master/0504-base-7) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Hemanthkumar485/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Hemanthkumar485/LeetCode/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/Hemanthkumar485/LeetCode/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Hemanthkumar485/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
