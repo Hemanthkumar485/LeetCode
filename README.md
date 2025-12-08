@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hemanthkumar485/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Hemanthkumar485/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1925-count-square-sum-triples](https://github.com/Hemanthkumar485/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Hemanthkumar485/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Hemanthkumar485/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Hemanthkumar485/LeetCode/tree/master/0204-count-primes) |
+| [1925-count-square-sum-triples](https://github.com/Hemanthkumar485/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Hemanthkumar485/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Hemanthkumar485/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Prefix Sum
