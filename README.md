@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Hemanthkumar485/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Hemanthkumar485/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hemanthkumar485/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/Hemanthkumar485/LeetCode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Hemanthkumar485/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Hemanthkumar485/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Hemanthkumar485/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Hemanthkumar485/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Hemanthkumar485/LeetCode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Hemanthkumar485/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3396-valid-word](https://github.com/Hemanthkumar485/LeetCode/tree/master/3396-valid-word) |
