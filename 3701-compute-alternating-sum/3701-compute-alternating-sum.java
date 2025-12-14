@@ -1,14 +1,14 @@
 class Solution {
     public int alternatingSum(int[] nums) {
-        int s = 0;
+        int s1 = 0, s2 = 0;
         for(int i = 0; i < nums.length; i++) {
             if(i%2 == 0) {
-                s += nums[i];
+                s1 += nums[i];
             }
             else{
-                s -= nums[i];
+                s2 += nums[i];
             }
         }
-        return s;
+        return s1-s2;
     }
 }
