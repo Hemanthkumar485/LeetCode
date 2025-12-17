@@ -6,8 +6,6 @@ class Solution {
             sb.append('0');
         }
         sb.append(a);
-        
-        System.out.println(sb.length());
         sb.reverse();
         String z = sb.toString();
         int c = Integer.parseInt(z,2);
