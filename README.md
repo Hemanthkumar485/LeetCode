@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/Hemanthkumar485/LeetCode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Hemanthkumar485/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Hemanthkumar485/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Hemanthkumar485/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Hemanthkumar485/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Hemanthkumar485/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Hemanthkumar485/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Hemanthkumar485/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Hemanthkumar485/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Hemanthkumar485/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Hemanthkumar485/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
