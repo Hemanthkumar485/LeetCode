@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Hemanthkumar485/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hemanthkumar485/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Hemanthkumar485/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemanthkumar485/LeetCode/tree/master/0020-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Hemanthkumar485/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Hemanthkumar485/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hemanthkumar485/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2000-reverse-prefix-of-word](https://github.com/Hemanthkumar485/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Hemanthkumar485/LeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Hemanthkumar485/LeetCode/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/Hemanthkumar485/LeetCode/tree/master/0898-transpose-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Hemanthkumar485/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Hemanthkumar485/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
