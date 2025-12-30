@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Hemanthkumar485/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Hemanthkumar485/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2651-calculate-delayed-arrival-time](https://github.com/Hemanthkumar485/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/Hemanthkumar485/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
