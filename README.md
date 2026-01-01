@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Hemanthkumar485/LeetCode/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Hemanthkumar485/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0898-transpose-matrix](https://github.com/Hemanthkumar485/LeetCode/tree/master/0898-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/Hemanthkumar485/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Hemanthkumar485/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hemanthkumar485/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Hemanthkumar485/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Hemanthkumar485/LeetCode/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/Hemanthkumar485/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hemanthkumar485/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/Hemanthkumar485/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Hemanthkumar485/LeetCode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Hemanthkumar485/LeetCode/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/Hemanthkumar485/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hemanthkumar485/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
