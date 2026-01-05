@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Hemanthkumar485/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Hemanthkumar485/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2235-add-two-integers](https://github.com/Hemanthkumar485/LeetCode/tree/master/2235-add-two-integers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Hemanthkumar485/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Hemanthkumar485/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
