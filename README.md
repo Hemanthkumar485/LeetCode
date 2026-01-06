@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2694-find-the-maximum-divisibility-score](https://github.com/Hemanthkumar485/LeetCode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Hemanthkumar485/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Hemanthkumar485/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Hemanthkumar485/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Hemanthkumar485/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Hemanthkumar485/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Hemanthkumar485/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Hemanthkumar485/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Hemanthkumar485/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Hemanthkumar485/LeetCode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3701-compute-alternating-sum](https://github.com/Hemanthkumar485/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Recursion
