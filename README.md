@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Hemanthkumar485/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Hemanthkumar485/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemanthkumar485/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Hemanthkumar485/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Hemanthkumar485/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Hemanthkumar485/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0414-third-maximum-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Hemanthkumar485/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Hemanthkumar485/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Hemanthkumar485/LeetCode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Hemanthkumar485/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/Hemanthkumar485/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Hemanthkumar485/LeetCode/tree/master/0231-power-of-two) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemanthkumar485/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Hemanthkumar485/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Hemanthkumar485/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Hemanthkumar485/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hemanthkumar485/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
