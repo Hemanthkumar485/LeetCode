@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Hemanthkumar485/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1929-concatenation-of-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Hemanthkumar485/LeetCode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
+| [2032-two-out-of-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/2032-two-out-of-three) |
 | [2057-smallest-index-with-equal-value](https://github.com/Hemanthkumar485/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2058-concatenation-of-array](https://github.com/Hemanthkumar485/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Hemanthkumar485/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hemanthkumar485/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hemanthkumar485/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1813-maximum-erasure-value](https://github.com/Hemanthkumar485/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2032-two-out-of-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/2032-two-out-of-three) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Hemanthkumar485/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Hemanthkumar485/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Hemanthkumar485/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Hemanthkumar485/LeetCode/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Hemanthkumar485/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Hemanthkumar485/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [2032-two-out-of-three](https://github.com/Hemanthkumar485/LeetCode/tree/master/2032-two-out-of-three) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Hemanthkumar485/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hemanthkumar485/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Hemanthkumar485/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
